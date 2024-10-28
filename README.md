@@ -1,6 +1,6 @@
 # HandAPP
 
-### Create pools for your dao/orgs that can be controlled donors
+### Create pools for your dao/orgs that can be controlled by donors
 
 ## What does it do?
 
