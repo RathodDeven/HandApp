@@ -1,0 +1,50 @@
+{
+  "name": "your-app-name",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "devDependencies": {
+    "@types/node": "22.8.1",
+    "@types/react": "18.3.12",
+    "@types/react-dom": "18.3.1",
+    "@types/uuid": "^10.0.0",
+    "eslint": "9.13.0",
+    "eslint-config-next": "15.0.1",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-prettier": "^5.2.1",
+    "typescript": "5.6.3"
+  },
+  "dependencies": {
+    "@ducanh2912/next-pwa": "^10.2.9",
+    "@emotion/react": "^11.13.3",
+    "@emotion/styled": "^11.13.0",
+    "@fontsource/roboto": "^5.1.0",
+    "@mui/icons-material": "^6.1.5",
+    "@mui/material": "^6.1.5",
+    "@rainbow-me/rainbowkit": "^2.2.0",
+    "@tanstack/react-query": "^5.59.16",
+    "@wagmi/core": "^2.14.1",
+    "autoprefixer": "10.4.20",
+    "axios": "^1.7.7",
+    "clsx": "^2.1.1",
+    "ethers": "^6.13.4",
+    "i": "^0.3.7",
+    "next": "15.0.1",
+    "npm": "^10.9.0",
+    "postcss": "8.4.47",
+    "prettier": "^3.3.3",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "react-hot-toast": "^2.4.1",
+    "tailwindcss": "3.4.14",
+    "uuid": "^11.0.1",
+    "viem": "^2.21.35",
+    "wagmi": "^2.12.25",
+    "zustand": "^5.0.0"
+  }
+}
