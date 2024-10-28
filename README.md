@@ -1,3 +1,13 @@
+# HandAPP
+
+### Create pools for your dao/orgs that can be controlled donors
+
+## What does it do?
+
+![hand_allo_pool_hypercert_sequence drawio](https://github.com/user-attachments/assets/f97c5bfe-53f2-42e0-b240-0c2c28adcdab)
+
+# Made using a starter pack
+
 ## A Next JS typescript-based Starter pack to start off your web3 project, clone this, and skip the initial repetitive steps.
 
 ### It includes : 
